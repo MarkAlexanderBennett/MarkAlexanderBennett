@@ -1,4 +1,5 @@
 About Me:
+
 I am an Australian that has been in the construction industry since 2004, working as an Engineering Surveyor. I rose up the ranks to become a Senior Surveyor working on numerous large scale commerical projects. 
 
 Languages and Tools:
