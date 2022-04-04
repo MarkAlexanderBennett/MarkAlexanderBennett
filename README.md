@@ -2,6 +2,7 @@ About Me:
 
 I am an Australian that has been in the construction industry since 2004, working as an Engineering Surveyor. I rose up the ranks to become a Senior Surveyor working on numerous large scale commerical projects. 
 
+
 Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
