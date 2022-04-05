@@ -1,10 +1,11 @@
 <h2 >About Me:</h2>
 
-I am an Australian that has been in the construction industry since 2004, working as an Engineering Surveyor. I rose up the ranks to become a Senior Surveyor working on numerous large scale commerical projects in both Brisbane, Melbourne and Western Australia. My Full Surveying CV can be found on the repo...
+I am an Australian that has been in the construction industry since 2004, working as an Engineering Surveyor. I rose up the ranks to become a Senior Surveyor working on numerous large scale commerical projects in both Brisbane, Melbourne and Western Australia. My Full Surveying history can be found on my linkedIn profile...
+As a surveyor my main job was problem solving using the tools and techniques that I have at my disposal, theses qualities are also found in a developer and I see many similarities between the two professions.
 
-Started coding sept 2021
-friend helping me
-surveying problem solving and mathematical solutions
+I started self learning coding in Java in September 2021 with the aim of one day gaining employment as a developer. I have been fortunate as my closest friend is a Backend java Developer and he has been my mentor and guided me along the way.
+
+
 
 
 
