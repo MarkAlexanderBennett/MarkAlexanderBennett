@@ -5,6 +5,8 @@ As a surveyor my main job was problem solving using the tools and techniques tha
 
 I started self learning coding in Java in September 2021 with the aim of one day gaining employment as a developer. I have been fortunate as my closest friend is a Backend java Developer and he has been my mentor and guided me along the way.
 
+I have completed many online tutorials including University of Helsinki MOOC Java Programming I and II which can be found in my 'Certificates' Repo.
+
 
 
 
